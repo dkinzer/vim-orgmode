@@ -261,6 +261,11 @@ Suggested plugins~
     (http://www.vim.org/scripts/script.php?script_id=52)
     This plugin will create a calendar window for timestamp insertion.
 
+  table-mode~
+    (http://www.vim.org/scripts/script.php?script_id=4501)
+    This plugin is an automatic table creator & formatter allowing one to
+    create tables as they type.
+
 ------------------------------------------------------------------------------
 Feedback~
    If you find problems with vim-orgmode, or if you have questions, remarks, or
@@ -485,7 +490,9 @@ Footnotes~
 
 ==============================================================================
 TABLES                                                         *orgguide-tables*
-  Not yet implemented in vim-orgmode~
+
+NOTE: The |table-mode| plugin is used for this feature and needs to be installed.
+      http://www.vim.org/scripts/script.php?script_id=4501
 
 ==============================================================================
 HYPERLINKS                                                 *orgguide-hyperlinks*
